@@ -1,6 +1,6 @@
 # Coding WebIDE
 
-README: [English](https://github.com/Coding/WebIDE/blob/master/README.md) | [中文](https://github.com/Coding/WebIDE/blob/master/README-zh.md)
+README: [English](https://github.com/lol-mk/webide/blob/master/README.md) | [中文](https://github.com/lol-mk/webide/blob/master/README-zh.md)
 
 ![](https://raw.githubusercontent.com/Coding/WebIDE/gh-pages/screenshots/import.png)
 
